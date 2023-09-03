@@ -7,13 +7,12 @@
 }
 
 html {
-    overflow-x: hidden;
+   
 }
 
 body {
     font-family: noto sans;
     scroll-behavior: smooth;
-    overflow-x: hidden;
 }
 
 html,
@@ -22,6 +21,7 @@ body {
     height: 100%;
     padding: 0;
     margin: 0;
+    overflow-x: hidden;
 }
 
 :root {
